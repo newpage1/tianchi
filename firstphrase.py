@@ -46,3 +46,5 @@ def creatematrix():
     for line in frtrain.readlines():
 	    linelist = line.strip.split(',')
 
+
+
